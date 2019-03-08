@@ -1,0 +1,25 @@
+body{
+color:red;
+background:black;
+}
+head{
+color:black;
+background:blue;
+}
+table{
+color:black;
+background:yellow;
+
+}
+h5{
+color:blue;
+}
+a{
+color:darkgreen;
+}
+@media-screen and (max-width:0%){
+text-align:50%
+margin:50%
+width:200%
+padding:20%
+}
